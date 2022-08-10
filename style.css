@@ -1,0 +1,30 @@
+html,body
+        {
+        box-sizing: border-box;
+        margin: o;
+        }
+
+
+li
+        {
+        border: 2px solid;
+        padding:5px
+        }
+.menu1
+        {
+        list-style: none;
+        display: flex;
+        gap: 40px;
+        }
+.leftmenu
+        {
+        margin-left:auto;
+        }
+.LOGO
+        {
+        border: 0px;
+        }
+
+
+
+
